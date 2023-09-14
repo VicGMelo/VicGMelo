@@ -10,14 +10,16 @@ Tenho 21 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Fatec
 
 <b>Experiência Profissional:</b>
 - Analista de Dados Pleno na DM (Atual)
-- [Liste outras experiências relevantes aqui, se aplicável]
+- Desenvolvedor Júnior na Cinndi (Anterior)
 
 <b>Tecnologias que domino:</b>
-- Python
-- Spark
-- SQL
-- Power BI
-- AWS Cloud
+<p align="center">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spark/spark-original.svg">&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">&nbsp;&nbsp;
+    <img height="40" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg">&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+</p>
 
 Meu trabalho envolve o uso dessas tecnologias para análise de dados, desenvolvimento de modelos de machine learning e aprimoramento de processos de negócios.
 
